@@ -1,0 +1,14 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build Application') {
+            steps {
+                sh 'clean package'
+            }
+            post {
+                success {
+                    echo "Now Archiving the Artifacts...."
+                    archiveArtifacts artifacts: '**/*.war'
+                }
+            }
+        }
