@@ -9,7 +9,4 @@ job('First_maven_project_via_DSL') {
 	steps {
 		maven('clean install package', 'hello-world/pom.xml')
 	}
-	publishers {
-	archiveArtifact '**/*.war'
-	}
 }
