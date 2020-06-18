@@ -3,8 +3,7 @@ pipeline {
     stages {
         stage('Build Application') {
             steps {
-                sh '''
-            #!/bin/bash
+                bash ''' #!/bin/bash
             'mvn -f pom.xml clean package'
          '''    
             }
