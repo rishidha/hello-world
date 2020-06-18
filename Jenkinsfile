@@ -4,6 +4,7 @@ pipeline {
         stage('Build Application') {
             steps {
                 bash ''' #!/bin/bash
+                echo "Hiiiiiiiiiiiiii"
             'mvn -f pom.xml clean package'
          '''    
             }
