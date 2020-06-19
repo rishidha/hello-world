@@ -4,7 +4,7 @@ pipeline {
     }
 
     stages {
-        stage(Maven') {
+        stage('Maven') {
            sh '${MAVEN_HOME}/bin/mvn -B verify'
         }
     }
