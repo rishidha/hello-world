@@ -1,13 +1,11 @@
 pipeline {
-    agent any
     environment {
-    PATH=$PATH
-  }
+        MAVEN_HOME = tool('M2')
+    }
+
     stages {
-        stage('Build Application') {
-            steps {
-                sh 'mvn -version'
-            }          
+        stage(Maven') {
+           sh '${MAVEN_HOME}/bin/mvn -B verify'
         }
     }
 }
