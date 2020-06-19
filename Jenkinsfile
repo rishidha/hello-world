@@ -1,11 +1,14 @@
 pipeline {
-    environment {
-        MAVEN_HOME = tool('M2')
+    agent any
+    tools { 
+        maven 'Maven 3.6.3' 
+        jdk 'jdk8' 
     }
-
     stages {
-        stage('Maven') {
-           sh '${MAVEN_HOME}/bin/mvn -B verify'
+        stage('Build Application') {
+            steps {
+                sh 'mvn -f pom.xml clean package'
+            }          
         }
     }
 }
