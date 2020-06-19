@@ -1,19 +1,11 @@
 pipeline {
     agent any
-	tools { 
-        maven 'M2_HOME' 
-    }
-    stages {
-        stage('Build Application') {
-            steps {
-                sh 'mvn -f pom.xml clean package'
+    stage('Package Application'){
+            steps{
+                build job: 'package application'
+ 
             }
-            post {
-                success {
-                    echo "Now Archiving the Artifacts...."
-                    archiveArtifacts artifacts: '**/*.war'
-                }
-            }
+            
         }
         stage('Deploy in Staging Environment'){
             steps{
