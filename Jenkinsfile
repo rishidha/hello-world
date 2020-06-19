@@ -1,5 +1,6 @@
 pipeline {
     agent any
+	stages {
     stage('Package Application'){
             steps{
                 build job: 'package application'
@@ -23,3 +24,4 @@ pipeline {
             }
         }
     }
+}
