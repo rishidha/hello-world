@@ -1,4 +1,8 @@
 this is new file
 rishidha
+<<<<<<< HEAD
 gupta2
+=======
+bisoi
+>>>>>>> c0420e4a5e1c056e7e4ffb05ba80d711d69d1a7b
 
