@@ -1,0 +1,560 @@
+[33mcommit 21fccc01ce2e3afb53d146c2599dffb85badd2f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 21:51:01 2020 +0530
+
+    adding in newfile
+
+[33mcommit d163019e3aa9f36acc261a11fa984c59eb53220c[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 21:39:39 2020 +0530
+
+    restoring newfile
+
+[33mcommit 1a7cc062d8b50046aeeed9f275bed6aedb71d36c[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 21:28:12 2020 +0530
+
+    addmin rishi file
+
+[33mcommit ad39faae8b77e7d4ccc32c308f9b3a1e439a9f4e[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 21:27:11 2020 +0530
+
+    deleting newfile
+
+[33mcommit a56e881cc7ef9a02a237096e4e70181bbb4b566f[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 21:17:48 2020 +0530
+
+    addming new file
+
+[33mcommit 93e0444900d4dab449143bf8b3b0094a25080602[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 21:15:26 2020 +0530
+
+    deleting txt file
+
+[33mcommit 95af81a4cc53eaca7a10810265d2b2223a0c8864[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 11:07:17 2020 +0530
+
+    flhs
+
+[33mcommit 586026f1676c2959b637f980d98e27d2c945cd29[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 11:04:35 2020 +0530
+
+    jlj
+
+[33mcommit c6d1f5561709e635732ab8f88edc610fd497515f[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 10:56:25 2020 +0530
+
+    text.txt
+
+[33mcommit b01287c0c96e0319513856da43c0553966bcea02[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 10:52:46 2020 +0530
+
+    renameing
+
+[33mcommit f55212a37e29c01dff169216c875a9dd246fc796[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 10:25:34 2020 +0530
+
+    dkld
+
+[33mcommit a44b61b098e52d8fc7f61bd08dae6587c515c215[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 10:25:04 2020 +0530
+
+    jkj
+
+[33mcommit b03248f2f56d968bc110a4ee53ea6f9dacfd1e59[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 10:17:58 2020 +0530
+
+    addmin admin 2
+
+[33mcommit b7cab0e7de90f21e85870f33078e87ab1972e076[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun Sep 27 10:15:11 2020 +0530
+
+    hlkahdlahd
+
+[33mcommit a34d278732603084ea080c3cbd0b7939db919fe8[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Sun Sep 27 09:11:48 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit b9062f02864e910e6c18fee8fba51cf68989634b[m
+Merge: ea187ae 2503699
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 21:10:34 2020 +0530
+
+    Merge branch 'master' of https://github.com/rishidha/hello-world into master
+
+[33mcommit ea187ae34658eefcd9a89badc41039129efb0cb5[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 21:09:32 2020 +0530
+
+    addming before
+
+[33mcommit 25036995238527aa5bbb9e1a5b0960c77a5fbd3e[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Sat Sep 26 21:08:36 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit 6a01809b81ef7e226d588fbc546b750d1dd2ce06[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 21:02:36 2020 +0530
+
+    removing
+
+[33mcommit a868dcb3d750d84f9a0d10993f34bddc18a46fc6[m
+Merge: 6dbce9f af19afd
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 20:57:32 2020 +0530
+
+    Merge branch 'master' of https://github.com/rishidha/hello-world into master
+
+[33mcommit 6dbce9f422569d6dc5df896e74013f1d3d364907[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 20:56:48 2020 +0530
+
+    reverting
+
+[33mcommit af19afd63d3986236612229afc1f630ed438420e[m
+Merge: 0b789f9 1792ec7
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 20:51:41 2020 +0530
+
+    latest
+
+[33mcommit 0b789f9e72d238385cd16747b68a18c68765fa9d[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 20:48:38 2020 +0530
+
+    Adding Hii
+
+[33mcommit 1792ec719c19ac0aae752ac35bb1560a3b783c80[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Sat Sep 26 20:47:49 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit 621c2b00e675be5a833e3208061b799ad979bd54[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sat Sep 26 16:14:26 2020 +0530
+
+    Modifing docker file
+
+[33mcommit d22055c7790d90261caec861a93e84060f81f579[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Sat Sep 26 16:12:39 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit 915ab32790577e40f04bb34d8a67834dec8447f0[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:48:38 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit a5eaa4216bba0244978e67e3ab6f2be96e803972[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:46:58 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit b42df98a257d7fe2d21b2f841aa6c53d6adf77ce[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:44:42 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 33d0a2b59160a88cbce27043764ebee6972a2071[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:38:11 2020 +0530
+
+    Update index.jsp
+
+[33mcommit cf44e759b386cce3c027440fa7671819a52e4bd9[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:16:29 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 46e225a8f27e691a43cdcfd65780c3b2ef24dc39[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:15:52 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 506991ae0194135c6b6fbb15b308774e40bbb46a[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:03:13 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 54ef3d7823f803611dd6e6c6bd021b68a01a5471[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 10:01:57 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 88bc8022475e243eff8a325e14d1f619ab24aece[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 09:56:11 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 90bd82a4dba4bdeeef51f5398566de16466acb6b[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 09:55:07 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit a4c61ca474240026d6c7bd28a1cf196e1226a8fb[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 09:52:54 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 60825ab494757f14380e6122fa81234a5af7bbaf[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 09:51:04 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 1ad5694fa3a781aa44481c4f580bc143f6660d6f[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 09:37:34 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 63e7adf1ca24d9ea5e89c95a7cf620824411676b[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 19 09:33:24 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 1f27421413d9f57a7f72bdc94eb624441c07c091[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 23:09:58 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 235c878daebd6c0ae3d5737ddc6839884cc7830e[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 23:05:48 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit c4d9a06e6bc9b99389654a9a3ebe356ea09f0899[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:56:33 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit d89bf5195435e8729ccf2ce3c8a137b13e749982[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:51:29 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit fca72cc5b085cb2bd0870e9c20fd6e94c498b870[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:49:19 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit b9c6d4fd4991fb2a69cb01d70d43c57bd5fdf169[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:48:30 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 50eb4ed9654c46b9b47815818018fcf52c8f2385[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:47:22 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 08aed22e2c2660129d09d4c19bfb11cb8116f9d9[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:45:49 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 3a549d0937c1f9f714818800caf504dc464daeca[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:44:07 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 337d9935f25477ffb2b2699b4516d4b3c21bdacd[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:40:37 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit a76b40f7d9a14e0134ee77fb47249874f282a031[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:34:55 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 198687bcb952b5d6b8c4673020d7475ab99a9580[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:28:57 2020 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 9f01cd65d481db362fadb5b5d9b352b5117feceb[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:13:25 2020 +0530
+
+    Create Jenkinsfile
+
+[33mcommit d558438777e0a2aefcc1173ff2ef671cb1cecd90[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Thu Jun 18 22:07:29 2020 +0530
+
+    Delete jenkinsfile
+
+[33mcommit 9bb0d5789c95c2c0390a8c17f1cf53dd7a1a1207[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 17 22:47:29 2020 +0530
+
+    Update Maven_project_DSL.groovy
+
+[33mcommit 201b262662451fe9646a65e01178bc165f0dd096[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 17 22:44:25 2020 +0530
+
+    Update Maven_project_DSL.groovy
+
+[33mcommit 4b33583b2226d574b743e8f6f305c92cf8644e88[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 17 22:36:21 2020 +0530
+
+    Delete samplegroovy.groovy
+
+[33mcommit 3210382d67fb4b407971bd563c208ce012a61f64[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 17 22:34:23 2020 +0530
+
+    Create Maven_project_DSL.groovy
+
+[33mcommit 3cfd6a8d2d3fe587d089a3bfc2a690d5ccdd623c[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Mon Jun 15 12:04:56 2020 +0530
+
+    Update index.jsp
+
+[33mcommit df72ccc910f711945ebb89353f4127dd038df98a[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Mon Jun 15 11:59:35 2020 +0530
+
+    Update index.jsp
+
+[33mcommit d501a25becfad111971f4374c81d8ef85a1b1200[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Mon Jun 15 10:15:08 2020 +0530
+
+    Update Greeter.java
+
+[33mcommit 4bad26687ca1f85524203cdb176a0dadb681dcaa[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Mon Jun 15 10:10:58 2020 +0530
+
+    Update Greeter.java
+
+[33mcommit 5f7a3011b3103e25831da9624a91b0a43a633730[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Mon Jun 15 10:01:31 2020 +0530
+
+    Update index.jsp
+
+[33mcommit c967b3bf62f00690b651a14dae8f94f827a40754[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:53:20 2020 +0530
+
+    Update jenkinsfile
+
+[33mcommit 903de33c241cd238466fb894ae6f7df0ddb452bb[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:37:20 2020 +0530
+
+    Update jenkinsfile
+
+[33mcommit 69e3e9936d2d673ea70fc65c074b42d9eb7de6a3[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:30:46 2020 +0530
+
+    Update jenkinsfile
+
+[33mcommit e406f0f48667bf89da4f4da31910bfaf56fbe4d2[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:29:49 2020 +0530
+
+    Update jenkinsfile
+
+[33mcommit 6e9b3d5058e56eeeae9c1a00be30998a299468f3[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:28:42 2020 +0530
+
+    Update jenkinsfile
+
+[33mcommit 953b633a16cf4c42ea06244063988d615e5d17c5[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:27:01 2020 +0530
+
+    Update jenkinsfile
+
+[33mcommit 7c58f82fe40565527ab797297e990ff2026dad98[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:23:45 2020 +0530
+
+    Create jenkinsfile
+
+[33mcommit a45c0f3ab19642440674d78c2137d333bc8b6013[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:23:19 2020 +0530
+
+    Delete jenkinsfile.txt
+
+[33mcommit 4d7fa6a074a706338f8cc4c7f1f5c6c625c2cb7f[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Fri Jun 12 11:21:36 2020 +0530
+
+    Create jenkinsfile.txt
+
+[33mcommit 2599aa0005692e763db90225ae1230c1e1ed7b37[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 10 21:28:38 2020 +0530
+
+    Update samplegroovy.groovy
+
+[33mcommit 9c186a6465d040edc61242a38ee8070256fc8698[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 10 21:25:25 2020 +0530
+
+    Create samplegroovy.groovy
+
+[33mcommit 61675d99800dc0a8e694e3fd548cb52631da95af[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 10 21:24:49 2020 +0530
+
+    Delete samplegroovy.grrovy
+
+[33mcommit 869cd4309e0f18bbe7af05c72f2efcc1a7b7c867[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Wed Jun 10 21:18:05 2020 +0530
+
+    Create samplegroovy.grrovy
+
+[33mcommit d8942a45ddb7bd702b042a656aed33fe782afe4b[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Mon Jun 1 09:48:40 2020 +0530
+
+    Update index.jsp
+
+[33mcommit a174f618334ac562348baa8340ee37b101a26c75[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Sun May 31 10:30:45 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 6f7691d34d7758f244328a66b3d8ef3bd5812da8[m
+Author: rishidha <57841979+rishidha@users.noreply.github.com>
+Date:   Sun May 31 10:27:49 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 84095ec7c1e752e87af480f9d76f5d47ad4a9fb6[m
+Author: rishidha <hrishidhagupta@gmail.com>
+Date:   Sun May 31 04:26:49 2020 +0000
+
+    chaning code
+
+[33mcommit de043c505e7adab1f892498ca231280298fc2674[m
+Author: yankils <46080533+yankils@users.noreply.github.com>
+Date:   Fri Mar 27 19:09:52 2020 +0530
+
+    Update Dockerfile
+
+[33mcommit e023267ad230263737198d87c595d67b82e44704[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 24 13:58:45 2019 +0000
+
+    my final commit in this repo
+
+[33mcommit cc8076dbf4a13b0bc2d093ea6d086da6c8d31104[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 02:33:49 2019 +0000
+
+    latest updates
+
+[33mcommit 46fde24d65d3fba1d59f0ece035b2896146300eb[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 02:30:37 2019 +0000
+
+    latest updates
+
+[33mcommit 9b22e46b2db569be8e01c72998cd78cf1942ddc4[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 02:13:24 2019 +0000
+
+    latest updates
+
+[33mcommit dd17c3425ec2d40e7dd7a23bb2f770220409f263[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Sat Aug 17 01:47:33 2019 +0000
+
+    latest updates
+
+[33mcommit 0cbaff1f8e7eca1a17bd130133605fee64ef6983[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:57:11 2019 +0000
+
+    latest updates
+
+[33mcommit 56136e6ecb216b0bbe6a054964cb52319abfc32e[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:37:36 2019 +0000
+
+    adding changes
+
+[33mcommit 31ca30576c29d221ff73824de6cbd8b7eb942e13[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:24:14 2019 +0000
+
+    adding changes
+
+[33mcommit 9b761e98f365df2c801e983d195e438cda89bbbd[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 19:06:21 2019 +0000
+
+    adding changes
+
+[33mcommit 9f5e14a3a25c655fbe06d833c53932ecc854e15a[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Fri Aug 16 18:56:40 2019 +0000
+
+    adding changes
+
+[33mcommit 5cb18d0821be01b8cb6790dc08afa062e9f496f1[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Aug 8 23:53:35 2019 +0000
+
+    updated index.jsp to deploy on container
+
+[33mcommit bdef0e403f31b80eaea395ea35775db2e0900478[m
+Author: AR Shankar <valaxytech@gmail.com>
+Date:   Thu Aug 8 22:27:56 2019 +0000
+
+    updated index.jsp
