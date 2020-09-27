@@ -1,6 +1,3 @@
 this is new file
-<<<<<<< HEAD
 rishidha
-=======
-adding
->>>>>>> parent of 8078b09... Revert "adding in newfile"
+
