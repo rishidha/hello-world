@@ -7,5 +7,5 @@ new branc
 adding 3
 adding 2
 
-this is new filecat
+this is new file
 
