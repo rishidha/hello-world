@@ -1,12 +1,10 @@
 this is new file
 
-<<<<<<< HEAD
-=======
 new branc
 
 adding 3
 adding 2
 
 this is new filecat
->>>>>>> parent of 96a31ce... Update newfile.txt
+
 
