@@ -2,7 +2,8 @@ this is new file
 
 <<<<<<< HEAD
 =======
-new branc
+new brancgit log
+
 
 adding 3
 adding 2
