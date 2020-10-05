@@ -1,13 +1,10 @@
 this is new file
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 new brancgit log
 
 =======
 new branc
->>>>>>> 53d8f789084641e93ab7ff7fb0592ac69766e7e2
+
 
 adding 3
 adding 2
