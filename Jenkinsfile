@@ -1,7 +1,7 @@
 pipeline {
     agent any
 	stages {
-    stage('Package Application'){
+    stage('Package Application cherry-pick'){
             steps{
                 build job: 'package application'
  
